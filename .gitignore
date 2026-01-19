@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!adl_a2_face_gen.ipynb
+!README.md
+!requirements.txt
